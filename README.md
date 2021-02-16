@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains code introduced in the following paper:
  
-**[Named Entity Recognition as Dependency Parsing]
+** [Named Entity Recognition as Dependency Parsing]
 
 ## Setup Environments
 * The code is written in Python 2, the compatibility to Python 3 is not guaranteed.  
