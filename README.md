@@ -3,9 +3,7 @@
 ## Introduction
 This repository contains code introduced in the following paper:
  
-**[Named Entity Recognition as Dependency Parsing](https://arxiv.org/abs/2005.07150)**  
-Juntao Yu, Bernd Bohnet and Massimo Poesio  
-In *Proceedings of the 58th Annual Conference of the Association for Computational Linguistics (ACL)*, 2020
+**[Named Entity Recognition as Dependency Parsing]
 
 ## Setup Environments
 * The code is written in Python 2, the compatibility to Python 3 is not guaranteed.  
